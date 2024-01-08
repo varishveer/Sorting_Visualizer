@@ -41,6 +41,9 @@ nav .array-inputs #a_size {
 nav .array-inputs #a_speed {
   padding: 5% 0%;
 }
+p{
+  font-size: large;
+}
 
 nav .array-inputs #a_generate {
   background-color: transparent;
@@ -49,6 +52,7 @@ nav .array-inputs #a_generate {
   color: white;
   padding: 4% 0% 0% 0%;
   padding-left: 20%;
+  font-size: large;
 }
 
 nav .array-inputs #a_generate:hover {
